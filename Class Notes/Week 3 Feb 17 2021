@@ -1,0 +1,41 @@
+Agenda
+
+- Assesement (5mins)
+- Review Assesement (5mins)
+- Practice writing Comments (10mins)
+  - single line
+  - inline (after a variable)
+  - multiline
+  - Why ar comments important 
+
+Shackathon (snap hackathon)©
+  - let's practice what' we've learned
+  - create a bad variable to store your name
+  - create two variables, one to store an int and one to store a float
+  - create a third variable to multiply those two variables
+  - print the third variable
+  - let's Review
+
+
+
+** Why are comments important? ***
+reference: https://youtu.be/rhF1x2lnRQA
+
+Imagine you're working on a yearlong app or software for a client, you deliver the product and the client is happy. 
+Now fast forward a few years or months and the client would like some updates to the app and because you wrote the software its your responsibliity to maintine it.  
+Without comments you'll forget the reasons why you wrote a certain peice of code a certain way and you will end up spending a lot of time looking at your own code trying to explain it.
+
+Comments are even more important when working with a group, it makes it easy to explain to other developers or clubmates to understand and use your code.
+
+That being said, comments are not a substitute to explain poorly written code. You should always strive to write clean understandable code and then use comments as an addition.
+
+Wrapup on comments: 
+  - Comments are hints that we can add to our program to makde the code easier to understand.
+  - In python, comments start with the # symbol.
+  - a shortcut in python to create the # symbol is ctrl+/ (backslash) or cmd+/
+  - Comments can also be used for debugging code.
+  - Python does'nt have multiline comments. However, we can use multiline strings '''like this''' to act like multiline comments.
+
+
+
+

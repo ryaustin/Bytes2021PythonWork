@@ -1,0 +1,4 @@
+#language = "python3"
+#run = "python ZD/week3.py"
+run = "python hackathons/challenge1.py"
+# run = "python ZD/week3code.py"
